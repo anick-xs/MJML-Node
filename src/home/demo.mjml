@@ -1,0 +1,37 @@
+<mjml>
+  <mj-body>
+     <!-- 1 -->
+     <mj-section background-url="http://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg" background-size="cover" background-repeat="no-repeat">
+      <mj-column width="600px">
+        <mj-text align="center" color="#fff" font-size="40px" font-family="Helvetica Neue">Subject</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 -->
+    <mj-section>
+      <mj-column >
+        <mj-text color="#000" font-size="16px" font-family="Helvetica Neue">Lorem ipsum dolor sit amet,consectetur adipiscing elit.sit amet,consectetur adipiscing elit.sit amet,consectetur adipiscing elit.sit amet,consectetur adipiscing elit.sit amet,consectetur adipiscing elit.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 3 -->
+    <mj-section>
+      <mj-column >
+       <mj-divider padding-left="0px" padding-right="0px"></mj-divider>
+      </mj-column>
+    </mj-section>
+    <!-- 4 -->
+    <mj-section background-color="#ffffff"  full-width="full-width">
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="http://191n.mj.am/img/191n/1t/hs.png" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"><span style="font-size: 14px; color: #e85034">Best audience</span><br /><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="http://191n.mj.am/img/191n/1t/hm.png" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"><span style="font-size: 14px; color: #e85034">Higher rates</span><br /><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="http://191n.mj.am/img/191n/1t/hl.png" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"><span style="font-size: 14px; color: #e85034">24/7 Support</span><br /><br />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>

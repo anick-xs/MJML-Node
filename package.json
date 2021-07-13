@@ -1,0 +1,20 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js",
+    "send": "node send.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "mjml": "^4.10.1",
+    "nodemailer": "^6.6.2",
+    "path": "^0.12.7"
+  }
+}
